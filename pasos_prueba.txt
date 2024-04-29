@@ -1,0 +1,29 @@
+Prueba Full-Stack React y SpringBoot
+
+Back
+
+1.- Creación del modelo hexagonal (configuration, controller, domain, exception, repository, service)
+2.- Aplicación de la estructura lambda en todas las clases de Java
+3.- Se uso persistencia en JPA y Jakarta
+4.- Se utilizó una Base de Datos MySQL
+5.- Se crearon paquetes para guardar la estructura hexagonal
+6.- Se crearon entidades, repositorios e implementación de los servicios
+7.- Se crearon controladores con sus respectivos CRUD y dar permiso a los CORS
+
+Front
+
+1.- Se creó un proyecto donde se almacenaran en tres carpetas: components, pages, services
+2.- Se creó un Navbar para visualizar las opciones de navegación disponibles
+3.- Se usó CSS para realizar el diseño del Navbar
+4.- Se necesitó de un route para navegar en el portal cuando le damos clic en cada uno de los módulos
+5.- Se utilizó variables de entorno para conectarse con SpringBoot
+6.- Se creó servicios en cada componente utilizando axios
+7.- Se diseño el formulario a través de React Bootstrap
+
+Funcionamiento
+
+1.- Realiza los CRUD de mantenimiento en los 6 módulos creados en SpringBoot.
+2.- Se filtra por estado y por cualquier dato en React con un input text de HTML.
+
+Happy coding
+José González
