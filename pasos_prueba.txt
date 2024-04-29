@@ -4,7 +4,7 @@ Back
 
 1.- Creación del modelo hexagonal (configuration, controller, domain, exception, repository, service)
 2.- Aplicación de la estructura lambda en todas las clases de Java con DTO cuando son Entity a DTO y DTO a Entity
-3.- Se uso persistencia en JPA y Jakarta
+3.- Se usaron persistencia en JPA y Jakarta
 4.- Se utilizó una Base de Datos MySQL
 5.- Se crearon paquetes para guardar la estructura hexagonal
 6.- Se crearon entidades, repositorios e implementación de los servicios
